@@ -4,7 +4,8 @@ I love design that focuses on systemic thinking and team collaboration.
 Currently working as Design System Lead at RTL+, where I specialize in building scalable design systems that drive product development efficiency.
 
 ##
-- [Resume](https://github.com/haaanju/personal/blob/main/Hanjukim_CV.pdf)
+📄 [Download CV](https://raw.githubusercontent.com/haaanju/personal/main/release/Hanjukim_CV.pdf)
+
 
 ## What I do
 - Design system strategy & architecture 
