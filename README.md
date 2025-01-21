@@ -1,6 +1,7 @@
 # Hello there! 👋 I'm Hanju Kim
 
-I love design that focuses on systemic thinking and team collaboration. Currently working as Design System Lead at RTL+, where I specialize in building scalable design systems that drive product development efficiency.
+I love design that focuses on systemic thinking and team collaboration.
+Currently working as Design System Lead at RTL+, where I specialize in building scalable design systems that drive product development efficiency.
 
 ## What I do
 - Design system strategy & architecture 
@@ -13,4 +14,4 @@ I love design that focuses on systemic thinking and team collaboration. Currentl
 - [Figma Korea User Group](https://vimeo.com/985542812) - Design System Webinar
 
 ## Get in touch
-- LinkedIn: @hanjukim
+- [LinkedIn](www.linkedin.com/in/hanjukim)
