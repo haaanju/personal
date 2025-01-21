@@ -1,7 +1,10 @@
-# Hello there! 👋 I'm Hanju Kim
+# Hello there! I'm Hanju Kim 👋 
 
 I love design that focuses on systemic thinking and team collaboration.
 Currently working as Design System Lead at RTL+, where I specialize in building scalable design systems that drive product development efficiency.
+
+##
+- [Resume](https://www.linkedin.com/in/hanjukim)
 
 ## What I do
 - Design system strategy & architecture 
