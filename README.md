@@ -14,4 +14,4 @@ Currently working as Design System Lead at RTL+, where I specialize in building 
 - [Figma Korea User Group](https://vimeo.com/985542812) - Design System Webinar
 
 ## Get in touch
-- [LinkedIn](www.linkedin.com/in/hanjukim)
+- [LinkedIn](https://www.linkedin.com/in/hanjukim)
