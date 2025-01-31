@@ -1,6 +1,6 @@
 # Hello there! I'm Hanju Kim 👋
 
-I love design that focuses on systemic thinking and team collaboration. Currently working as Design Engineer at RTL+, where I specialize in building scalable design systems that drive product development efficiency.
+I love design that focuses on systemic thinking and team collaboration. Currently working as Design systems at RTL+, where I specialize in building scalable design systems that drive product development efficiency.
 
 ## 👨‍💻 What I do
 - Design system strategy & architecture
